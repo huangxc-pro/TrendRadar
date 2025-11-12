@@ -15,3 +15,8 @@ IDC
 chatgpt
 
 英伟达
+Nvidia
+
+芯片
+
+AI产业
